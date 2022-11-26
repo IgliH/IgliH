@@ -1,16 +1,19 @@
 .about_me{
+    position: relative;
     color: #fff;
     display: inline-block;
     margin-left: 30px;
     margin-top: 15%;
+    width: 40%;
 }
 
 .info{
     color: #fff;
-    display: inline-block;
-    position: absolute;
-    right: 20px;
+    position: relative;
+    float: right;
+    padding-right: 30px;
     margin-top: 15%;
+    
 }
 
 .strong_points ul li{
