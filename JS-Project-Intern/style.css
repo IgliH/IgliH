@@ -1,0 +1,30 @@
+h1{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+#paginate{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+#search-input {
+    margin: 10px 10px;
+}
+
+.cat-facts-list {
+    list-style: none;
+    padding: 10px;
+}
+.cat-facts-list li {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    background-color: #dddd;
+    border-radius: 4px;
+}

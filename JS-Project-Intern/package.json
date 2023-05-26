@@ -1,0 +1,15 @@
+{
+  "name": "js-intern",
+  "version": "1.0.0",
+  "description": "Node intern",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igli",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
